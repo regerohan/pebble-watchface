@@ -1,0 +1,26 @@
+{
+    "author": "Rohan Rege",
+    "dependencies": {},
+    "keywords": [],
+    "name": "face",
+    "pebble": {
+        "displayName": "Pebble-watchface",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "77294c70-ecd6-4ef2-ac46-039205ba63e2",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
